@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A0C220FF2F0E04A400190D90 /* Exceptions for "OQueFazerCambaraDoSul" folder in "OQueFazerCambaraDoSul" target */ = {
+		A0A7DAAD2F1066FC00DA72CD /* Exceptions for "OQueFazerCambaraDoSul" folder in "OQueFazerCambaraDoSul" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A0C220EF2F0E04A200190D90 /* OQueFazerCambaraDoSul */ = {
+		A0A7DAA32F1066FC00DA72CD /* OQueFazerCambaraDoSul */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				A0C220FF2F0E04A400190D90 /* Exceptions for "OQueFazerCambaraDoSul" folder in "OQueFazerCambaraDoSul" target */,
+				A0A7DAAD2F1066FC00DA72CD /* Exceptions for "OQueFazerCambaraDoSul" folder in "OQueFazerCambaraDoSul" target */,
 			);
 			path = OQueFazerCambaraDoSul;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		A0C220E42F0E04A200190D90 = {
 			isa = PBXGroup;
 			children = (
-				A0C220EF2F0E04A200190D90 /* OQueFazerCambaraDoSul */,
+				A0A7DAA32F1066FC00DA72CD /* OQueFazerCambaraDoSul */,
 				A0C220EE2F0E04A200190D90 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A0C220EF2F0E04A200190D90 /* OQueFazerCambaraDoSul */,
+				A0A7DAA32F1066FC00DA72CD /* OQueFazerCambaraDoSul */,
 			);
 			name = OQueFazerCambaraDoSul;
 			packageProductDependencies = (
